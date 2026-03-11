@@ -1,6 +1,10 @@
 # TJDeepLearningCourse
 
-The homework for the Deep Learning Course in Tongji University ,  2026 Spring
+Welcome Issue !
+
+The homework for the Deep Learning Course in Tongji University.
+
+Semester : 2026 Spring
 
 Student Number : 2352469 ZhiXing Zuo
 
